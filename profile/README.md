@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
+We are a group of researchers interested in materials science, data science, software development and information science with topics ranging from machine learning, physics of materials and dislocations to research data management, semantics, ontologies and making research data more FAIR.
 
-**Here are some ideas to get you started:**
+Here you find open source software, tools, data sets and information on projects that we publish under open source licences.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Most of our software acctually works most of the time and usually new releases are better than older versions :wink:.
+
+If you like what we do and that we can continue doing it, please leave us a star and recommend our work. Also if you use our work please cite it correctly according to the specifications in the respected repository.
+
+Overall, feedback or contributions of any kind are of course kindly welcome!
