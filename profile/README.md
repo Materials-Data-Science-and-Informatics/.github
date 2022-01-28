@@ -1,11 +1,9 @@
-## Hi there 👋
+## Welcome!
 
-We are a group of researchers interested in materials science, data science, software development and information science with topics ranging from machine learning, physics of materials and dislocations to research data management, semantics, ontologies and making research data more FAIR.
 
-Here you find open source software, tools, data sets and information on projects that we publish under open source licences.
+The Institute for Materials Data Science and Informatics (IAS-9, https://fz-juelich.de/ias/ias-9/) is Part of the Forschungszentrum Jülich which is itself part of the Helmholtz Association in Germany. The IAS-9 is a multidisciplinary institute that works on topics ranging from data science & machine learning, materials simulation & theory to ontology development, research data management & software development. 
+
+Here you can find open source software, tools, data sets and information on projects that we publish under open source licenses. 
 
 Most of our software acctually works most of the time and usually new releases are better than older versions :wink:.
-
-If you like what we do and that we can continue doing it, please leave us a star and recommend our work. Also if you use our work please cite it correctly according to the specifications in the respected repository.
-
-Overall, feedback or contributions of any kind are of course kindly welcome!
+And of course, you are welcome to test, apply and use our tools and software! If you use our work, please cite (see specification in respective repository) and recommend it. Feel free to get in contact and leave a star!
